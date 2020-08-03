@@ -1,16 +1,25 @@
 {
-  "name": "author-lib",
-  "version": "1.0.0",
-  "description": "",
+  "name": "webpack-numbers",
+  "version": "1.0.1",
+  "description": "walk through the process to publish a package for learning purpose",
   "main": "dist/webpack-numbers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "yaoye (jeren)",
   "license": "ISC",
   "devDependencies": {
     "lodash": "^4.17.19",
     "webpack": "^4.44.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jerenyaoyelu/publish-a-npm-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jerenyaoyelu/publish-a-npm-package/issues"
+  },
+  "homepage": "https://github.com/Jerenyaoyelu/publish-a-npm-package#readme"
 }
